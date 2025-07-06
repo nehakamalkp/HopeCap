@@ -33,15 +33,16 @@ This project was built for an interactive signage competition, combining:
 🔧 Installation & Running
 
 1. **Clone the repo**
-   ```bash
    git clone https://github.com/your-username/hope-cap.git
    cd hope-cap
 
 
 2.Install dependencies
+
  npm install
 
 3.Set up environment variables
+
 Create a .env file in the root and add:
 REACT_APP_ELEVENLABS_API_KEY=your-elevenlabs-api-key
 
