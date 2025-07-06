@@ -51,22 +51,6 @@ REACT_APP_ELEVENLABS_API_KEY=your-elevenlabs-api-key
 
     npm start
 
-📁 Folder Structure
-
-hope-cap/
-├── public/
-│   └── ...
-├── src/
-│   ├── api/
-│   │   ├── gemini.js
-│   │   └── tts.js
-│   ├── components/
-│   │   ├── Cat.js
-│   │   ├── Moon.js
-│   │   └── Envelope.js
-│   ├── App.js
-│   └── App.css
-└── .env
 
 ⚙️ Customization
 
